@@ -102,7 +102,6 @@ https://hotel-booking-6247a.web.app
 ├── docker-compose.yml
 ├── firebase.json
 ├── postman-collection.json
-└── {
 ```
 
 
